@@ -264,7 +264,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     async function getConfigFile() {
-        const fileAddress = 'https://amorettt.github.io/calendar.xml';
+        const fileAddress = 'https://amoredisperato.github.io/calendar.xml';
         const requestInit = {
             'headers': {
                 'accept': 'application/xml'
