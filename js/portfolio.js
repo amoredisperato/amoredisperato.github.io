@@ -926,7 +926,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // XML related
 
     async function getConfigFile() {
-        const fileAddress = 'https://amorettt.github.io/portfolio.xml';
+        const fileAddress = 'https://amoredisperato.github.io/portfolio.xml';
         const requestInit = {
             'headers': {
                 'accept': 'application/xml'
