@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', () => {
         invisible: '0',
         visible: '1',
 
-        beigeColor: 'rgb(235, 223, 192)',
+        beigeColor: '#EFE6DF',
         blackColor: 'black',
         transparent: '#00000000'
     }
